@@ -27,7 +27,7 @@ function App() {
     <div class="col-sm-4">
       <h3>Column 3</h3> 
       <p>Thank you</p>
-      <img src={logo} alt="image" />
+      <img src={logo}  />
     </div>
   </div>
 </div>
